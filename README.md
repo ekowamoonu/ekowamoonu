@@ -32,6 +32,8 @@ I'm a passionate Full-Stack Software Engineer from Accra, Ghana with a strong in
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Microsoft Graph](https://img.shields.io/badge/-Microsoft%20Graph-0078D4?style=flat&logo=microsoft-graph&logoColor=white)
+![Azure Active Directory](https://img.shields.io/badge/-Azure%20AD-0089D6?style=flat&logo=azure-active-directory&logoColor=white)
 
 
 ## GitHub Stats
