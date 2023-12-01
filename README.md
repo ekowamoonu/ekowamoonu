@@ -6,7 +6,7 @@
 I'm a passionate Full-Stack Software Engineer from Accra, Ghana with a strong interest in building robust system architectures, databases, and machine learning. Welcome to my GitHub profile! 🚀
 
 ## About Me
-- 🔭 I'm currently reading the books: Crafting Interpreters and LFS. I'd like to develop my own Linux distro by end of 2023
+- 🔭 I'm currently reading the books: Crafting Interpreters and LFS. I'd like to develop my own Linux distro by end of 2024
 - 🌱 I'm constantly learning and exploring new technologies and tools.
 - 💬 Ask me about backend engineering, frontend engineering, cloud, system architecture, and anything around the field of software development.
 - 📫 How to reach me: Gilbert Blankson-Afful on LinkedIn, My website: gilbertblanksonafful.com
