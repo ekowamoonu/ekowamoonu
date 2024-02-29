@@ -23,6 +23,7 @@ I'm a passionate Full-Stack Software Engineer from Accra, Ghana with a strong in
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-239120?style=flat&logo=asp.net&logoColor=white)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -36,6 +37,7 @@ I'm a passionate Full-Stack Software Engineer from Accra, Ghana with a strong in
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Microsoft Graph](https://img.shields.io/badge/-Microsoft%20Graph-0078D4?style=flat&logo=microsoft-graph&logoColor=white)
 ![Azure Active Directory](https://img.shields.io/badge/-Azure%20AD-0089D6?style=flat&logo=azure-active-directory&logoColor=white)
+
 
 
 ## GitHub Stats
